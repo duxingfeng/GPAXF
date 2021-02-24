@@ -1,5 +1,9 @@
 dadasda:www
+<<<<<<< HEAD
 
 
 
 asdjajsakljd 
+=======
+ffff 
+>>>>>>> 797f4362b1aaf929e335e8f5a59bb1d9d42af529
